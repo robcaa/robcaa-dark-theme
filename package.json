@@ -1,0 +1,15 @@
+{
+    "title": "Robcaa Dark Theme",
+    "name": "robcaa-dark-theme",
+    "description": "Dark theme for brackets by Robcaa",
+	"homepage": "https://github.com/robcaa/robcaa-dark-theme",
+    "version": "1.0.0",
+    "author": "Robert Girhiny <robcaa@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+	"keywords": ["theme"]
+}
